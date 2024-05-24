@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:31e2100de893a91de0a0fa560a14cfa46d47ac6d3bf1cbac6d75c59d735bb81f
-size 264
+# ignore the paper and HW files
+deep_image_prior.pdf
+GenAI_assignment_visual_signal.pdf
+
+# python execute __pycache__ files
+__pycache__
